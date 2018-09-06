@@ -1,3 +1,3 @@
-public clas suma{
+public class Operacion{
 
 }
