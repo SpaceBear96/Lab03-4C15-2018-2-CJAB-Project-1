@@ -1,2 +1,2 @@
-#Laboratorio 03 - Inicializando GIT
-#Semana 4
+# Laboratorio 03 - Inicializando GIT
+  Semana 4
